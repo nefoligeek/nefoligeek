@@ -4,7 +4,7 @@ import nicLogo from "../assets/images/nic.png";
 const Experience = () => {
   return (
     <>
-      <div className="container mx-auto p-4">
+      <div id="experience" className="container mx-auto p-4">
         <h1 className="text-4xl text-center pt-28 mb-12">Experience</h1>
         <div className="flex flex-col md:flex-row md:space-x-8">
           <div className="flex-1 mb-8 md:mb-0">
